@@ -126,6 +126,24 @@ a:hover {
     font-family: 'Montez', sans-serif;
 }
 
+@media screen and (min-width: 64em) {
+    .project-name {
+        font-size: 6rem;
+    }
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+    .project-name {
+        font-size: 4.5rem;
+    }
+}
+
+@media screen and (max-width: 42em) {
+    .project-name {
+        font-size: 2.5rem;
+    }
+}
+
 .project-soon {
     margin-top: 0;
     margin-bottom: 0.1rem;
@@ -133,20 +151,20 @@ a:hover {
 }
 
 @media screen and (min-width: 64em) {
-    .project-name {
-        font-size: 4rem;
+    .project-soon {
+        font-size: 2.4rem;
     }
 }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
-    .project-name {
-        font-size: 2.25rem;
+    .project-soon {
+        font-size: 2rem;
     }
 }
 
 @media screen and (max-width: 42em) {
-    .project-name {
-        font-size: 1.75rem;
+    .project-soon {
+        font-size: 1.2rem;
     }
 }
 
@@ -159,19 +177,19 @@ a:hover {
 
 @media screen and (min-width: 64em) {
     .project-tagline {
-        font-size: 1.6rem;
+        font-size: 3rem;
     }
 }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
     .project-tagline {
-        font-size: 1.15rem;
+        font-size: 2.5rem;
     }
 }
 
 @media screen and (max-width: 42em) {
     .project-tagline {
-        font-size: 1rem;
+        font-size: 1.3rem;
     }
 }
 
