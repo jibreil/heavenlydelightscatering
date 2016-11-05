@@ -103,7 +103,7 @@ a:hover {
 
 @media screen and (min-width: 64em) {
     .page-header {
-        padding: 8%;
+        padding: 5%;
         height: 100vh;
     }
 }
@@ -134,7 +134,7 @@ a:hover {
 
 @media screen and (min-width: 64em) {
     .project-name {
-        font-size: 4rem;
+        font-size: 5rem;
     }
 }
 
@@ -159,7 +159,7 @@ a:hover {
 
 @media screen and (min-width: 64em) {
     .project-tagline {
-        font-size: 1.6rem;
+        font-size: 2rem;
     }
 }
 
