@@ -103,7 +103,7 @@ a:hover {
 
 @media screen and (min-width: 64em) {
     .page-header {
-        padding: 15%;
+        padding: 10%;
         height: 100vh;
     }
 }
@@ -124,6 +124,12 @@ a:hover {
     margin-top: 0;
     margin-bottom: 0.1rem;
     font-family: 'Montez', sans-serif;
+}
+
+.project-soon {
+    margin-top: 0;
+    margin-bottom: 0.1rem;
+    font-family: 'Open Sans', sans-serif;
 }
 
 @media screen and (min-width: 64em) {
