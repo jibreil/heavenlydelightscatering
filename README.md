@@ -1,4 +1,4 @@
-# heavenlydelightscateringdev
+# heavenlydelightscatering
 This is the repository for the Heavenly Delights Catering website.
 
 [Main site](https://www.heavenlydelightscatering.com.au/)
